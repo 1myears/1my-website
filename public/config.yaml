@@ -1,0 +1,4 @@
+baseURL: 'http://example.org/'
+languageCode: 'en-us'
+title: 'Million years lab'
+theme: 1my-on-papermod-hugo-theme
