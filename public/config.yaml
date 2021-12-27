@@ -2,3 +2,9 @@ baseURL: 'http://example.org/'
 languageCode: 'en-us'
 title: 'Million years lab'
 theme: 1my-on-papermod-hugo-theme
+
+menu:
+  main:
+    - name: 'Blog'
+      url: '/posts/'
+      weight: 2

@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": ".."
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "../public/themes/1my-on-papermod-hugo-theme"
 		}
 	],
 	"settings": {
