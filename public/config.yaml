@@ -1,7 +1,10 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://millionyears.org/'
 languageCode: 'en-us'
 title: 'Million years lab'
 theme: 1my-on-papermod-hugo-theme
+
+params:
+  dateFormat: Jan 2, 2006
 
 menu:
   main:
