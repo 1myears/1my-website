@@ -1,0 +1,3 @@
+[submodule "public/themes/1my-on-papermod-hugo-theme"]
+	path = public/themes/1my-on-papermod-hugo-theme
+	url = git@github.com:1myears/1my-on-papermod-hugo-theme.git
